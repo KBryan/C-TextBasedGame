@@ -20,6 +20,39 @@
 
 # 1. Introduction to C#
 
+Install .NET SDK
+If you haven't installed the .NET SDK yet, you can download it from here.
+
+# Create a New Console Project
+* Open a terminal or command prompt.
+
+* Navigate to the directory where you want to create your project.
+
+* Run the following command to create a new console application:
+
+```
+dotnet new console -n TextBasedGame
+```
+
+* This command will create a new folder named TextBasedGame with the necessary files for a .NET console project.
+
+# Navigate to the Project Folder
+```
+cd TextBasedGame
+```
+# Add the Game Code
+Open the Program.cs file in a text editor or IDE.
+Replace the existing code with the full game code provided earlier.
+
+# Run the Project
+
+After adding the code, you can run the project using the following command:
+
+```
+dotnet run
+```
+This will compile and execute your text-based game.
+
 * C# (pronounced "C-sharp") is a versatile programming language developed by Microsoft. It's widely used for building applications, games, and more. In this tutorial, we'll focus on using C# to create a text-based adventure game, which will help you learn the language's basics.
 
 # 2. Setting Up the Development Environment
