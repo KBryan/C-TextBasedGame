@@ -21,7 +21,7 @@
 # 1. Introduction to C#
 
 Install .NET SDK
-If you haven't installed the .NET SDK yet, download it from [here (https://dotnet.microsoft.com/en-us/download/dotnet/8.0)].
+If you haven't installed the .NET SDK yet, download it from [here](https://dotnet.microsoft.com/en-us/download/dotnet/8.0).
 
 # Create a New Console Project
 * Open a terminal or command prompt.
